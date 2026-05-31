@@ -1,0 +1,294 @@
+{
+  "generatedAt": "2026-05-31T23:24:07.647Z",
+  "items": [
+    {
+      "id": "ai-governance-benchmark",
+      "owner": "AI strategy lead",
+      "audience": "Board strategy committee",
+      "sector": "AI_PLATFORM",
+      "benchmarkStatus": "ABOVE_PEERS",
+      "benchmarkTheme": "AI governance maturity and agent readiness",
+      "boardQuestion": "Are we ahead of peers on governed AI adoption, or just ahead on AI experimentation volume?",
+      "currentPosition": "Protocol specs, governance bridges, and executive scorecards already create a stronger AI control story than most mid-market peers can show.",
+      "gapSummary": "The biggest remaining gap is a tighter board summary that turns technical governance into one benchmark claim leadership can repeat externally.",
+      "exposureScore": 29,
+      "savingsPotentialScore": 68,
+      "investmentPriorityScore": 81,
+      "confidenceScore": 92,
+      "urgencyScore": 43,
+      "benchmarkHeadline": "AI governance is already an advantage if leadership packages it as an operating-system claim instead of a tooling claim.",
+      "benchmarkNarrative": "The benchmark edge comes from governance discipline, procurement readability, and reusable control artifacts rather than raw model usage.",
+      "nextBenchmarkDecision": "Package one investor-facing AI benchmark memo and use it as the standard narrative for diligence, boards, and strategic buyers.",
+      "companyTags": [
+        "IBM",
+        "Azure",
+        "OpenAI",
+        "MCP"
+      ],
+      "peerComparisons": [
+        "Governed AI control plane",
+        "Protocol-backed procurement story",
+        "Reusable audit narrative"
+      ],
+      "relatedSurfaces": [
+        "watsonx.kineticgain.com",
+        "suite.kineticgain.com",
+        "scorecard.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "AI governance scorecard",
+        "Decision-card controls",
+        "Protocol suite",
+        "Agent readiness memo"
+      ]
+    },
+    {
+      "id": "identity-benchmark",
+      "owner": "Identity controls lead",
+      "audience": "Security committee",
+      "sector": "CLOUD_IDENTITY",
+      "benchmarkStatus": "CATCH_UP",
+      "benchmarkTheme": "Identity hardening and access ownership",
+      "boardQuestion": "Where are we still behind peers on identity remediation speed, ownership clarity, and endpoint proof?",
+      "currentPosition": "The estate is credible, but identity proof still lands as multiple surfaces instead of one clean benchmark claim.",
+      "gapSummary": "The benchmark gap is not control absence so much as fragmented packaging across access review, app protection, and evidence ownership.",
+      "exposureScore": 66,
+      "savingsPotentialScore": 39,
+      "investmentPriorityScore": 88,
+      "confidenceScore": 78,
+      "urgencyScore": 81,
+      "benchmarkHeadline": "Identity is high priority because peers can compress this story faster, even when their raw controls are weaker.",
+      "benchmarkNarrative": "The next benchmark win comes from tying identity drift, endpoint posture, and remediation ownership into one sequence leadership can fund.",
+      "nextBenchmarkDecision": "Fund one identity recovery sprint that unifies access review, app protection, and remediation proof into one benchmark packet.",
+      "companyTags": [
+        "CyberArk",
+        "Okta",
+        "Entra",
+        "Intune"
+      ],
+      "peerComparisons": [
+        "Access-review ownership",
+        "Endpoint enforcement proof",
+        "Identity remediation speed"
+      ],
+      "relatedSurfaces": [
+        "access.kineticgain.com",
+        "protect.kineticgain.com",
+        "crossrisk.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Identity risk ledger",
+        "Endpoint posture",
+        "Access-review evidence",
+        "Remediation ownership map"
+      ]
+    },
+    {
+      "id": "revenue-benchmark",
+      "owner": "Revenue systems lead",
+      "audience": "Operating review",
+      "sector": "REVENUE_SYSTEMS",
+      "benchmarkStatus": "WITHIN_RANGE",
+      "benchmarkTheme": "Attribution trust and revenue infrastructure efficiency",
+      "boardQuestion": "Are our revenue systems benchmark-neutral, or can we defend them as a superior operating layer?",
+      "currentPosition": "Reporting, experiment governance, and attribution integrity are credible, but the margin story still needs a cleaner benchmark waterfall.",
+      "gapSummary": "The board can see strong revenue infrastructure pieces, yet the benchmark view still needs to rank waste reduction, investment, and trust in one chart.",
+      "exposureScore": 52,
+      "savingsPotentialScore": 79,
+      "investmentPriorityScore": 71,
+      "confidenceScore": 76,
+      "urgencyScore": 63,
+      "benchmarkHeadline": "Revenue infrastructure is close to benchmark-leading, but the savings story still needs a more CFO-readable waterfall.",
+      "benchmarkNarrative": "The opportunity is not new tooling alone; it is turning attribution and experiment discipline into a visible margin and trust benchmark.",
+      "nextBenchmarkDecision": "Publish one revenue benchmark memo that ranks savings leakage, system trust, and the top two investments to unlock margin.",
+      "companyTags": [
+        "Klaviyo",
+        "VWO",
+        "Power BI",
+        "Tableau"
+      ],
+      "peerComparisons": [
+        "Attribution trust",
+        "Experiment guardrails",
+        "Reporting cycle time"
+      ],
+      "relatedSurfaces": [
+        "revenue.kineticgain.com",
+        "martech.kineticgain.com",
+        "proof.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Platform margin leak report",
+        "Revenue scorecard",
+        "Attribution controls",
+        "Experiment evidence"
+      ]
+    },
+    {
+      "id": "fintech-benchmark",
+      "owner": "FinTech controls lead",
+      "audience": "Investor diligence team",
+      "sector": "FINTECH",
+      "benchmarkStatus": "WITHIN_RANGE",
+      "benchmarkTheme": "Payments, treasury, and merchant review maturity",
+      "boardQuestion": "Can we show that our FinTech operations benchmark favorably on risk clarity and remediation speed?",
+      "currentPosition": "Payments, KYC, treasury, and merchant review are now visible as one operating cluster instead of four isolated systems.",
+      "gapSummary": "The benchmark narrative still needs sharper peer ranking on reserve exposure, KYC cycle time, and merchant review backlog.",
+      "exposureScore": 61,
+      "savingsPotentialScore": 58,
+      "investmentPriorityScore": 84,
+      "confidenceScore": 74,
+      "urgencyScore": 77,
+      "benchmarkHeadline": "FinTech readiness is no longer opaque, but the benchmark pack still needs a more explicit peer contrast.",
+      "benchmarkNarrative": "The estate is good enough to defend, but investor confidence rises when operations are ranked against recognizable control outcomes.",
+      "nextBenchmarkDecision": "Tie KYC, treasury, and merchant review into one investor benchmark pack before the next diligence cycle.",
+      "companyTags": [
+        "Payments",
+        "Treasury",
+        "KYC",
+        "Merchant risk"
+      ],
+      "peerComparisons": [
+        "KYC cycle time",
+        "Reserve exposure management",
+        "Merchant review throughput"
+      ],
+      "relatedSurfaces": [
+        "payments.kineticgain.com",
+        "treasury.kineticgain.com",
+        "merchant.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "KYC queue",
+        "Treasury signals",
+        "Merchant review backlog",
+        "Exception posture"
+      ]
+    },
+    {
+      "id": "biotech-benchmark",
+      "owner": "Quality systems lead",
+      "audience": "Regulated growth review",
+      "sector": "BIOTECH_DIAGNOSTICS",
+      "benchmarkStatus": "ABOVE_PEERS",
+      "benchmarkTheme": "Regulated quality-system coherence",
+      "boardQuestion": "Can we show a quality-system benchmark that regulated buyers and investors both recognize as mature?",
+      "currentPosition": "Assay readiness, instrument changes, CAPA, specimen custody, safety, and event narratives now read as one coherent quality stack.",
+      "gapSummary": "The benchmark opportunity is strong already; the remaining work is lighter packaging and more explicit investment ranking.",
+      "exposureScore": 37,
+      "savingsPotentialScore": 46,
+      "investmentPriorityScore": 64,
+      "confidenceScore": 89,
+      "urgencyScore": 48,
+      "benchmarkHeadline": "The biotech lane is benchmark-leading because it reads like one quality operating system instead of scattered compliance tools.",
+      "benchmarkNarrative": "Very few peers can show GxP, CAPA, specimen, and safety in one board-readable stack; that is the benchmark advantage to preserve.",
+      "nextBenchmarkDecision": "Package the biotech benchmark story as a regulated-infrastructure flagship and only fund the narrowest remaining gaps.",
+      "companyTags": [
+        "GxP",
+        "CAPA",
+        "Specimen",
+        "Safety"
+      ],
+      "peerComparisons": [
+        "Quality-system coherence",
+        "Deviation handling",
+        "Safety review packaging"
+      ],
+      "relatedSurfaces": [
+        "capa.kineticgain.com",
+        "specimen.kineticgain.com",
+        "safety.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Change control",
+        "CAPA evidence",
+        "Specimen custody",
+        "Safety signal routing"
+      ]
+    },
+    {
+      "id": "procurement-benchmark",
+      "owner": "Procurement strategy lead",
+      "audience": "Buyer enablement review",
+      "sector": "PROCUREMENT_TRUST",
+      "benchmarkStatus": "CATCH_UP",
+      "benchmarkTheme": "Enterprise procurement acceleration",
+      "boardQuestion": "Are we ahead of peers on trust packaging and questionnaire turnaround, or still too manual for enterprise scale?",
+      "currentPosition": "Questionnaire answers, trust rooms, RFP assembly, and proof-gap monitoring now form a visible procurement lane.",
+      "gapSummary": "The benchmark gap is in reusable packaging depth and speed relative to best-in-class trust centers, not in the existence of the lane itself.",
+      "exposureScore": 57,
+      "savingsPotentialScore": 83,
+      "investmentPriorityScore": 79,
+      "confidenceScore": 72,
+      "urgencyScore": 74,
+      "benchmarkHeadline": "Procurement can become a true margin lever, but the benchmark pack still needs stronger speed and reuse evidence.",
+      "benchmarkNarrative": "This is close to a benchmark-worthy enterprise-deal system, but leadership still needs one clearer before-and-after story on procurement drag.",
+      "nextBenchmarkDecision": "Benchmark response time, trust reuse, and proof-gap closure against peers and fund the automation layer that closes those deltas.",
+      "companyTags": [
+        "Procurement",
+        "Trust center",
+        "RFP",
+        "Proof gap"
+      ],
+      "peerComparisons": [
+        "Questionnaire turnaround",
+        "Trust-room reuse",
+        "RFP assembly speed"
+      ],
+      "relatedSurfaces": [
+        "procurement.kineticgain.com",
+        "questionnaire.kineticgain.com",
+        "proofgap.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Questionnaire packs",
+        "Trust artifacts",
+        "RFP output",
+        "Proof-gap findings",
+        "Cycle-time benchmark"
+      ]
+    },
+    {
+      "id": "public-sector-benchmark",
+      "owner": "Public-sector strategy lead",
+      "audience": "Public-sector diligence review",
+      "sector": "PUBLIC_SECTOR",
+      "benchmarkStatus": "BLIND_SPOT",
+      "benchmarkTheme": "Public-sector readiness and disclosure discipline",
+      "boardQuestion": "What do peers already package for public-sector diligence that we still cannot defend cleanly?",
+      "currentPosition": "The ingredients exist, but public-sector readiness is still under-packaged and weakly owned compared with the strongest enterprise-facing lanes.",
+      "gapSummary": "This remains a blind spot because the sector-specific disclosure, procurement, and benchmark framing are not yet tied into one defendable packet.",
+      "exposureScore": 74,
+      "savingsPotentialScore": 28,
+      "investmentPriorityScore": 69,
+      "confidenceScore": 57,
+      "urgencyScore": 83,
+      "benchmarkHeadline": "Public-sector readiness is a packaging blind spot, not a capability void, but leadership still cannot benchmark it with confidence.",
+      "benchmarkNarrative": "Without one public-sector benchmark owner, the portfolio cannot yet tell a credible story about suitability, procurement fit, and disclosure strength.",
+      "nextBenchmarkDecision": "Assign one owner to build the public-sector benchmark packet before making broader credibility claims into that market.",
+      "companyTags": [
+        "GovTech",
+        "Disclosure",
+        "Procurement",
+        "Readiness"
+      ],
+      "peerComparisons": [
+        "Public-sector disclosure depth",
+        "Procurement fit narrative",
+        "Regulated buyer packaging"
+      ],
+      "relatedSurfaces": [
+        "procurement.kineticgain.com",
+        "claims.kineticgain.com",
+        "board.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Disclosure pack",
+        "Procurement narrative",
+        "Owner map",
+        "Public-sector benchmark memo",
+        "Response posture"
+      ]
+    }
+  ]
+}
