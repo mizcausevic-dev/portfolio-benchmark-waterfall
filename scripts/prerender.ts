@@ -1,10 +1,14 @@
-import { mkdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { renderBenchmarkLane, renderDocs, renderInvestmentWaterfall, renderOverview, renderPeerGaps, renderVerification } from "../src/services/render.js";
 import { benchmarkLane, investmentWaterfall, payload, peerGaps, riskMap, summary, verification } from "../src/services/verticalBriefService.js";
 
 const root = path.resolve("site");
 mkdirSync(root, { recursive: true });
+
+if (existsSync("CNAME")) {
+  writeFileSync(path.join(root, "CNAME"), readFileSync("CNAME", "utf8").trim() + "\n");
+}
 
 const htmlRoutes = new Map<string, [string, string]>([
   ["/", ["index.html", renderOverview()]],
